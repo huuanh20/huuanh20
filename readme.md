@@ -5,11 +5,12 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FFFE9&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Huu+Anh+:wave:;Full-Stack+Developer+in+the+making;.NET+%7C+Java+Spring+Boot+%7C+ReactJS;Always+learning%2C+always+growing+:rocket:" alt="Typing SVG" />
-</a>a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FFFE9&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Huu+Anh+%F0%9F%91%8B;Full-Stack+Developer+in+the+making;.NET+%7C+Java+Spring+Boot+%7C+ReactJS;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
+<!-- Social Badges -->
 [![GitHub followers](https://img.shields.io/github/followers/huuanh20?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22)](https://github.com/huuanh20)
 [![Profile Views](https://komarev.com/ghpvc/?username=huuanh20&style=for-the-badge&color=blueviolet)](https://github.com/huuanh20)
 
@@ -17,7 +18,7 @@
 
 ---
 
-## :man_developer: About Me
+## 👨‍💻 About Me
 
 ```java
 public class HuuAnh {
@@ -25,17 +26,15 @@ public class HuuAnh {
     String school   = "FPT University - Ho Chi Minh City";
     String role     = "Full-Stack Developer (Intern)";
     String[] focus  = {"Backend Development", "System Design", "AI Integration"};
-    String goal     = "Build impactful products & grow every single day :rocket:";
+    String goal     = "Build impactful products & grow every single day 🚀";
 
     boolean openToWork = true;  // Always!
 }
 ```
 
-```
-
 ---
 
-## :hammer_and_wrench: Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -72,7 +71,7 @@ public class HuuAnh {
 
 ---
 
-## :bar_chart: GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huuanh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6FFFE9&icon_color=6FFFE9"/>
@@ -83,10 +82,9 @@ public class HuuAnh {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huuanh20&theme=tokyonight&hide_border=true&background=0D1117&stroke=6FFFE9&ring=6FFFE9&fire=FF6B6B&currStreakLabel=6FFFE9" alt="GitHub Streak"/>
 </div>
 
-
 ---
 
-## :trophy: Featured Projects
+## 🏆 Featured Projects
 
 <div align="center">
 
@@ -97,20 +95,20 @@ public class HuuAnh {
 
 ---
 
-## :books: Today I Learned (TIL)
+## 📚 Today I Learned (TIL)
 
->  Ghi lai kien thuc moi moi ngay - nho nhung deu dan! :seedling:
+> Ghi lại kiến thức mới mỗi ngày — nhỏ nhưng đều đặn! 🌱
 
-| Ngay | Chu de | Tags |
+| Ngày | Chủ đề | Tags |
 |------|--------|------|
 | 2026-05-03 | Stream API trong Java | `#java` `#stream` |
 | ... | ... | ... |
 
-:point_right: Xem tat ca tai: [til repository](https://github.com/huuanh20/til)
+👉 Xem tất cả tại: [til repository](https://github.com/huuanh20/til)
 
 ---
 
-## :chart_with_upwards_trend: Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huuanh20&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6FFFE9&line=6FFFE9&point=FFFFFF" width="100%"/>
@@ -120,7 +118,7 @@ public class HuuAnh {
 
 <div align="center">
 
-**"Code every day. Learn something new. Ship it."** :rocket:
+**"Code every day. Learn something new. Ship it."** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
