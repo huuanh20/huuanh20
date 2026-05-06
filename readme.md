@@ -14,6 +14,7 @@
 
   ### About Me
 
+<!-- iteration 1 -->
 
 <!-- pair extraordinaire -->
   - Currently working on **LocalNotebook** - Private AI Knowledge Base
