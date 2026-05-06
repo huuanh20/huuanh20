@@ -24,6 +24,8 @@
 
           ### Tech Stack
 
+
+<!-- shark-2 -->
           <p align="center">
             <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,vscode,postgres,redis,js,ts&perline=5" />
           </p>p>
