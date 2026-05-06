@@ -14,6 +14,8 @@
 
   ### About Me
 
+
+<!-- pair extraordinaire -->
   - Currently working on **LocalNotebook** - Private AI Knowledge Base
   - - Learning **FastAPI, Docker, PostgreSQL**
     - - Passionate about **Backend Development & AI**
