@@ -18,13 +18,13 @@
 <!-- iteration 1 -->
 
 <!-- pair extraordinaire -->
-  - Currently working on **LocalNotebook** - Private AI Knowledge Base
-  - - Learning **FastAPI, Docker, PostgreSQL**
-    - - Passionate about **Backend Development & AI**
-      - - Reach me at: **huuanh20@github**
-        - - Fun fact: I commit code every day!
-         
-          - ---
+- Currently working on **LocalNotebook** - Private AI Knowledge Base
+- Learning **FastAPI, Docker, PostgreSQL**
+- Passionate about **Backend Development & AI**
+- Reach me at: **huuanh20@github**
+- Fun fact: I commit code every day!
+
+---
 
           ### Tech Stack
 
@@ -44,7 +44,7 @@
 <!-- shark-2 -->
           <p align="center">
             <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,vscode,postgres,redis,js,ts&perline=5" />
-          </p>p>
+          </p>
 
           ---
 
@@ -52,7 +52,7 @@
 
           <p align="center">
             <img src="https://github-profile-trophy.vercel.app/?username=huuanh20&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
-          </p>p>
+          </p>
 
           ---
 
@@ -61,13 +61,13 @@
           <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=huuanh20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuanh20&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-          </p>p>
+          </p>
 
           <p align="center">
        
             <!-- shark-1 -->
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=huuanh20&theme=tokyonight&hide_border=true" />
-          </p>p>
+          </p>
 
           ---
 
@@ -75,14 +75,13 @@
 
           <p align="center">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=huuanh20&theme=tokyo-night&hide_border=true" />
-          </p>p>
+          </p>
 
           ---
 
           <div align="center">
-            <i>Star my repositories if you find them useful!</i>i>
-          </div>div>
-          </i>
+            <i>Star my repositories if you find them useful!</i>
+          </div>
 
 <!-- yolo badge -->
 
