@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Anh!
+  # Hi there, I'm Huu Anh!
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Backend+Engineer;Always+learning+new+things;Building+cool+projects" alt="Typing SVG" />
 
@@ -24,37 +24,7 @@
 - Reach me at: **huuanh20@github**
 - Fun fact: I commit code every day!
 
----
 
-### Tech Stack
-
-
-<!-- shark-8 -->
-
-<!-- shark-7 -->
-
-<!-- shark-6 -->
-
-<!-- shark-5 -->
-
-<!-- shark-4 -->
-
-<!-- shark-3 -->
-
-<!-- shark-2 -->
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,vscode,postgres,redis,js,ts&perline=5" />
-</p>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=huuanh20&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
 
 ### GitHub Stats
 
