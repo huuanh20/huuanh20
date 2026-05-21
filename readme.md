@@ -15,14 +15,6 @@
 
   ### About Me
 
-<!-- iteration 1 -->
-
-<!-- pair extraordinaire -->
-- Currently working on **LocalNotebook** - Private AI Knowledge Base
-- Learning **FastAPI, Docker, PostgreSQL**
-- Passionate about **Backend Development & AI**
-- Reach me at: **huuanh20@github**
-- Fun fact: I commit code every day!
 
 
 
