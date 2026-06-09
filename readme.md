@@ -1,55 +1,112 @@
 <div align="center">
 
-  # Hi there, I'm Huu Anh!
+  <img src="https://img.shields.io/badge/Hello%2C%20huuanh20-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Backend+Engineer;Always+learning+new+things;Building+cool+projects" alt="Typing SVG" />
-
-  <br/>
-
-<!-- iteration 2 -->
-  [![Profile Views](https://komarev.com/ghpvc/?username=huuanh20&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/huuanh20)
-
-  </div>
-
-  ---
-
-  ### About Me
-
-
-
-
-### GitHub Stats
-
-
-### Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huuanh20&theme=tokyo-night&hide_border=true" />
-</p>
+  <h1>🌌 Welcome to my universe!</h1>
+  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=huuanh20&color=F700FF" alt="Profile Views" />
+  </p>
+  
+</div>
 
 ---
 
+### 💻 About Me
+
+* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Flutter/Dart**, and **PostgreSQL/SQL Server**.
+* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP/Azure)** and **DevOps/Docker**.
+* 🤝 **Collaborations:** Open to discussions on **Backend Architecture**, **Mobile Apps**, and **Open Source**.
+
+<br>
+
+### 📧 Connect with Me
 <div align="center">
-<i>Star my repositories if you find them useful!</i>
+  <a href="https://github.com/huuanh20">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:anhnhx4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
-<!-- yolo badge -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-<!-- yolo badge -->
+---
 
-<!-- yolo badge attempt 4 -->
+### 🚀 Tech Universe
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
 
-<!-- pull shark badge -->
+---
 
-<!-- pull shark badge take 2 -->
+### 🔧 My Stack & Tools
 
-<!-- pull shark badge -->
-<!-- pull shark badge take 3 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dart,flutter,dotnet,postgres,py,js,ts,html,css,git,github,docker,vscode&perline=8" />
+</div>
 
-<!-- pull shark badge final -->
+---
 
-<!-- pull shark badge final unique -->
+### 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huuanh20&theme=react-dark&hide_border=true&area=true" />
+</div>
 
-<!-- iteration 3 -->
+---
 
-<!-- iteration 4 -->
+### 📈 GitHub Analytics & Streak
+
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=huuanh20&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+  </a>
+  
+  <br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huuanh20&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuanh20&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+
+  <br>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=huuanh20&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+</a>
+
+</div>
+
+---
+
+### 🐍 Fun Fact: Commit Snake
+<div align="center">
+  <img src="https://github.com/huuanh20/huuanh20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
