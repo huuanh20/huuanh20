@@ -92,11 +92,11 @@
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=huuanh20&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=huuanh20&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60&v=1" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=huuanh20&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=huuanh20&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60&v=1" />
   </a>
 
   <br>
