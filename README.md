@@ -116,3 +116,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+| [🤖 **awesome-ai-agent-skills**](https://github.com/huuanh20/awesome-ai-agent-skills) | AI Skills, Markdown | 40+ AI skill packs for Claude Code, Cursor, Gemini CLI. Simulates a full dev team: BA → TechLead → PM → BE → FE → Tester → QA. |
