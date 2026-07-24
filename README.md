@@ -29,6 +29,7 @@
 | [🧪 **LabManager.NET**](https://github.com/huuanh20/LabManager.NET) | ASP.NET Core Web API, WPF (MVVM), EF Core | Comprehensive Laboratory Information System (LIS) with Identity & Access Management (IAM) and HL7 Instrument Integration. |
 | [📋 **taskflow-app**](https://github.com/huuanh20/taskflow-app) | ASP.NET Core 8, React 18, PostgreSQL | Full-stack Task Management System with interactive Kanban board. |
 | [🔍 **ai-automation-scanner**](https://github.com/huuanh20/ai-automation-scanner) | React, Vite, Python | Process scanner identifying AI automation opportunities, built for FWD IT Internship Portfolio 2026. |
+| [🤖 **awesome-ai-agent-skills**](https://github.com/huuanh20/awesome-ai-agent-skills) | AI Skills, Markdown | 40+ AI skill packs for Claude Code, Cursor, Gemini CLI. Simulates a full dev team: BA → TechLead → PM → BE → FE → Tester → QA. |
 
 <br>
 
@@ -116,5 +117,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
-| [🤖 **awesome-ai-agent-skills**](https://github.com/huuanh20/awesome-ai-agent-skills) | AI Skills, Markdown | 40+ AI skill packs for Claude Code, Cursor, Gemini CLI. Simulates a full dev team: BA → TechLead → PM → BE → FE → Tester → QA. |
