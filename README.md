@@ -17,7 +17,7 @@
 ### 💻 About Me
 
 * 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Flutter/Dart**, and **PostgreSQL/SQL Server**.
-* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP/Azure)** and **DevOps/Docker**.
+* 📚 **Learning Next:** Cloud Solutions (AWS/GCP/Azure)** and **DevOps/Docker**.
 * 🤝 **Collaborations:** Open to discussions on **Backend Architecture**, **Mobile Apps**, and **Open Source**.
 
 <br>
