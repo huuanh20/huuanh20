@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Hello%2C%20huuanh20-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  <h3>BackEnd Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
   <p>
